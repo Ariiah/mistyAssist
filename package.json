@@ -1,0 +1,24 @@
+{
+  "name": "mistyAssist",
+  "version": "1.0.0",
+  "description": "Misty can read your Google Calendar events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ariiah/mistyAssist.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ariiah/mistyAssist/issues"
+  },
+  "homepage": "https://github.com/Ariiah/mistyAssist#readme",
+  "dependencies": {
+    "googleapis": "^27.0.0",
+    "watson-developer-cloud": "^3.4.4"
+  }
+}
